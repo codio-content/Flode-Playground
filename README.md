@@ -2,7 +2,7 @@
 
 This Unit is not a teaching Unit. It's main purpose is to allow students to add and run their own `Flode` charts.
 
-- The public GitHub repository for this unit can be found at [https://github.com/codio-content/Flode_Playground](https://github.com/codio-content/Flode_Playground).
+- The public GitHub repository for this unit can be found at [https://github.com/codio-content/Flode-Playground](https://github.com/codio-content/Flode-Playground).
 
 - For more information on other units and modules in the An Introduction to Programming course go to [Course-:-Introduction-to-Programming](https://github.com/codio-content/Information/wiki/Course-:-Introduction-to-Programming)
 
