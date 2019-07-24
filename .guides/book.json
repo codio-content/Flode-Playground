@@ -1,0 +1,17 @@
+{
+ "name": "Flode-Playground",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "6afe4127-380e-0d90-a8ca-aa66f29d2f84",
+   "pageId": "6afe4127-380e-0d90-a8ca-aa66f29d2f84",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "78bccab1-0c54-917b-960a-8e816fccdd08",
+   "pageId": "78bccab1-0c54-917b-960a-8e816fccdd08",
+   "type": "page"
+  }
+ ]
+}
